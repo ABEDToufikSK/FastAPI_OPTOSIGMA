@@ -131,4 +131,4 @@ docker run -p 8000:8000 --env-file .env chatbot-api
 ---
 
 📌 **Dernière mise à jour :** `Février 2025`  
-✉ **Contact :** `support@optosigma.com` 🚀
+✉ **Contact :** `t.abed@optosigma-europe.com` 🚀
